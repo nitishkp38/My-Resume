@@ -1,0 +1,54 @@
+body {
+    background-color: whitesmoke;
+}
+
+#contact {
+    background-color: aqua;
+    text-align: center;
+}
+
+#name {
+    color: blueviolet;
+}
+
+#name:hover {
+    color: navy;
+}
+
+#thank {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#thank:hover {
+    color: brown;
+}
+
+.int {
+    background-color: aquamarine;
+}
+
+#intern {
+    text-align: center;
+}
+
+#pro {
+    background-color: lightseagreen;
+}
+
+.educ {
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+.head {
+    background-color: powderblue;
+}
+
+#edu {
+    text-align: center;
+}
+
+.menu:hover {
+    color: black;
+}
